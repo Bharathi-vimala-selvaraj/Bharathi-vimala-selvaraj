@@ -1,231 +1,152 @@
-# 👋 Hi, I'm Bharathi Selvaraj
+<!-- 🌊 Animated Header -->
 
-### Electronics & Communication Engineering Student | Software Developer | AI & Automation Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Bharathi%20Selvaraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-🎓 Final-year **B.E. Electronics and Communication Engineering** student at VSB Engineering College, Karur
-📊 **CGPA: 8.87 / 10**
-💻 Interested in **Java, DSA, SQL, AI Agents, Embedded Systems & VLSI**
-🚀 Building practical projects that combine **engineering + software + automation**
+<!-- ⌨️ Typing Animation -->
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=ECE+Engineering+Student;Java+%7C+DSA+%7C+SQL;AI+%26+Automation+Enthusiast;Embedded+Systems+%7C+VLSI;Building+Ideas+into+Projects+%F0%9F%9A%80"/>
+</p>
 
-## 🧑‍💻 About Me
-
-I'm an Electronics and Communication Engineering student who enjoys building technology-driven solutions across both **software and hardware domains**.
-
-My current focus is on strengthening my skills in:
-
-* ☕ Java & Object-Oriented Programming
-* 🧩 Data Structures & Algorithms
-* 🗄️ SQL & Database Systems
-* 🤖 AI Agents & Workflow Automation
-* 🔌 Embedded Systems & Microcontrollers
-* 📡 VLSI & Digital Electronics
-* 📊 Problem Solving & Technical Interview Preparation
-
-I believe in learning by **building, testing, documenting, and improving**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.87%2F10-1565C0?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Bharathi-vimala-selvaraj&style=for-the-badge&color=0072ff"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👋 About Me
 
-### Programming
+🎓 Final-year **ECE student**
+💻 **Java • DSA • SQL**
+🤖 **AI Agents • Automation**
+🔌 **Embedded Systems • VLSI**
+🏆 Hackathons • Research • Technical Projects
 
-`Java` `Python` `C`
-
-### Computer Science
-
-`Data Structures & Algorithms` `OOP` `SQL` `DBMS`
-
-### AI & Automation
-
-`AI Agents` `Dify` `n8n` `Gemini`
-
-### Electronics
-
-`Embedded Systems` `Microcontrollers` `Digital Electronics` `VLSI`
-
-### Tools
-
-`MATLAB` `Xilinx` `Git` `GitHub`
+> **Learn → Build → Debug → Improve**
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Stack
 
-### 🤖 PRICE-PILOT-AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github&theme=dark"/>
+</p>
 
-AI-powered solution focused on helping users identify and compare product offers.
+<p align="center">
 
-**Focus:** AI | Automation | Product Intelligence
+`DSA` `OOP` `DBMS` `AI Agents` `Dify` `n8n` `MATLAB` `Xilinx`
 
----
-
-### 🧠 AI-DSA-Interview-Coach
-
-An AI-based interview preparation project designed to help learners practice DSA and technical interviews.
-
-**Focus:** AI | DSA | Interview Preparation
+</p>
 
 ---
 
-### 🌱 Sahthivermi
+## 🚀 Featured Work
 
-AI-powered management solution for a vermicompost company, covering operational workflows such as stock and internship management.
+<p align="center">
 
-**Focus:** AI Agents | Automation | Business Workflow
+<a href="https://github.com/Bharathi-vimala-selvaraj/PRICE-PILOT-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=PRICE-PILOT-AI&theme=tokyonight&hide_border=true"/>
+</a>
 
----
+<a href="https://github.com/Bharathi-vimala-selvaraj/AI-DSA-Interview-Coach">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=AI-DSA-Interview-Coach&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🎫 TicketSense AI
+</p>
 
-Intelligent ticket-management system designed to automate support workflows through request categorization and prioritization.
+<p align="center">
 
-**Focus:** Python | AI | Automation
+<a href="https://github.com/Bharathi-vimala-selvaraj/sahthivermi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=sahthivermi&theme=tokyonight&hide_border=true"/>
+</a>
 
----
+<a href="https://github.com/Bharathi-vimala-selvaraj/DSA-JAVA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=DSA-JAVA&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🌾 Agri Irrigate Agent
-
-AI/automation project focused on agricultural irrigation workflows.
-
-**Focus:** Python | AI | Agriculture
-
----
-
-### ⚡ Smart Hostel Energy Management System
-
-Java-based smart energy management project involving device management, energy tracking, analytics and automation.
-
-**Focus:** Java | IoT | Energy Management
+</p>
 
 ---
 
-## 📚 My Learning Repositories
-
-### ☕ DSA-JAVA
-
-My structured journey through Data Structures and Algorithms using Java.
-
-Topics include:
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Recursion
-* Searching
-* Sorting
-* Problem Solving
-
-### 💻 JAVA-LEETCODE
-
-My LeetCode problem-solving journey using Java.
-
-I focus on understanding:
-
-**Brute Force → Optimization → Complexity → Pattern Recognition**
-
-### 🗄️ SQL-Zero-to-Hero
-
-A structured SQL learning repository covering:
-
-`DDL → DML → Constraints → Filtering → Functions → GROUP BY → HAVING → JOINs → Subqueries → CTEs → Window Functions → Interview Problems`
-
----
-
-## 🔬 ECE & Engineering Projects
-
-### 📡 Microstrip Patch Antenna with EBG Structure
-
-Designed and analyzed a microstrip patch antenna incorporating an **Electromagnetic Band Gap (EBG)** structure for improved antenna performance.
-
-**Area:** RF & Microwave Engineering
-
-### 🐦 Flappy Bird Game
-
-Java-based game implementing:
-
-* Object-Oriented Programming
-* GUI development
-* Animation
-* Collision detection
-* Scoring system
-
-**Technology:** Java
-
----
-
-## 🏆 Experience & Activities
-
-* 🎯 Academic Project Intern — Brainery Spot Technology
-* 🏁 CICADA 2K26 — 24-Hour Hackathon
-* 🇮🇳 Smart India Hackathon — Internal Hackathon Student Coordinator
-* 🎤 Coordinated **10+ college events**
-* 👑 School House Captain
-
----
-
-## 📜 Certifications & Academic Work
-
-* Digital Circuits — NPTEL
-* VLSI Design Training — Internshala
-* MATLAB Training — Internshala
-* 📄 Published research paper on **Microstrip Patch Antenna with EBG Structure**
-* 📑 Presented papers at national-level conferences
-
----
-
-## 🎯 Currently Learning
+## 🧠 Current Focus
 
 ```text
-Java
-  ↓
-DSA
-  ↓
+Java + DSA
+     ↓
 SQL + DBMS
-  ↓
-Problem Solving
-  ↓
-AI Agents & Automation
-  ↓
-Embedded Systems + VLSI
+     ↓
+AI Agents
+     ↓
+Embedded Systems
+     ↓
+VLSI
 ```
 
-My goal is to become an engineer who can move comfortably between **software, electronics and intelligent automation**.
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bharathi-vimala-selvaraj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathi-vimala-selvaraj&theme=tokyonight&hide_border=true" width="48%"/>
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi-vimala-selvaraj&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 My GitHub Philosophy
+## 🐍 Contribution Journey
 
-> **Learn → Build → Break → Debug → Document → Improve**
-
-I don't want my repositories to be just collections of code.
-
-I want them to show:
-
-**What I learned → What problem I solved → How I solved it → What I improved**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Highlights
 
-I'm open to:
+<p align="center">
 
-* 💼 Internship & placement opportunities
-* 🤝 Technical collaborations
-* 🚀 Hackathons
-* 🤖 AI/automation projects
-* 🔌 Embedded & ECE projects
-* 📚 Learning communities
+<img src="https://img.shields.io/badge/🚀-CICADA%202K26-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇮🇳-SIH%20Coordinator-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄-Research%20Paper-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎤-10%2B%20Events-green?style=for-the-badge"/>
 
-📧 **Email:** [bharathivimalaselvaraj@gmail.com](mailto:bharathivimalaselvaraj@gmail.com)
-💼 **LinkedIn:** [www.linkedin.com/in/bharathi-vimala-selvaraj](http://www.linkedin.com/in/bharathi-vimala-selvaraj)
+</p>
 
 ---
 
-⭐ If you find something useful in my repositories, feel free to explore, learn, and build on it.
+## 🌐 Let's Connect
 
-### 🚀 Building today. Learning every day.
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bharathi-vimala-selvaraj/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bharathi-vimala-selvaraj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:bharathivimalaselvaraj@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>⚡ Building. Learning. Evolving.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
+</p>
