@@ -44,34 +44,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-<p align="center">
-
-<a href="https://github.com/Bharathi-vimala-selvaraj/PRICE-PILOT-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=PRICE-PILOT-AI&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Bharathi-vimala-selvaraj/AI-DSA-Interview-Coach">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=AI-DSA-Interview-Coach&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Bharathi-vimala-selvaraj/sahthivermi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=sahthivermi&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Bharathi-vimala-selvaraj/DSA-JAVA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharathi-vimala-selvaraj&repo=DSA-JAVA&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
 ## 🧠 Current Focus
 
 ```text
