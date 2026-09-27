@@ -60,20 +60,18 @@ VLSI
 
 ---
 
+
+
 ## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bharathi-vimala-selvaraj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathi-vimala-selvaraj&theme=tokyonight&hide_border=true" width="48%"/>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bharathi-vimala-selvaraj&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Bharathi's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Bharathi-vimala-selvaraj&theme=tokyonight&hide_border=true" width="49%" alt="Bharathi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi-vimala-selvaraj&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bharathi-vimala-selvaraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🐍 Contribution Journey
